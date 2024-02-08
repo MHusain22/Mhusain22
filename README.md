@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA in java**
 
-- 👨‍💻 All of my projects are available at [https://mhusain22.github.io/mhpotfolio/](https://mhusain22.github.io/mhportfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://mhusain22.github.io/mhportfolio/)
 
 - 💬 Ask me about **react, mongodb, node, express**
 
