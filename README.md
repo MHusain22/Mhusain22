@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhusain22&show_icons=true&locale=en" alt="mhusain22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhusain22&" alt="mhusain22" /></p>
+## GSSOC(24) Badge 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+</div>
