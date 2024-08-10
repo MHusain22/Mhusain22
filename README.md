@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhusain22&label=Profile%20views&color=0e75b6&style=flat" alt="mhusain22" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce Website](https:/electro-web-x2es.onrender.com/)
+- 🔭 I’m currently working on [Ecommerce Website](https://electroweb.vercel.app/)
 
 - 🌱 I’m currently learning **DSA in java**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://mhusain22.github.io/mhportfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://mhportfolio.vercel.app/)
 
 - 💬 Ask me about **react, mongodb, node, express**
 
